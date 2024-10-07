@@ -1,0 +1,25 @@
+Q1. How many hours did it take you to complete this assessment? (Please keep try to keep
+track of how many hours you have spent working on each individual part of this
+assessment as best you can - an estimation is fine; we just want a rough idea.)
+
+A1. It took me about 4 hours to complete this QAP, 1 hour for problem 1, 1 hour for problem 2 and 2 hours for problem 3.
+
+Q2. What online resources you have used? (My lectures, YouTube, Stack overflow etc.)
+
+A2. I used StackOverflow, MDB documentation, and YouTube.
+
+Q3. Did you need to ask any of your friends in solving the problems. (If yes, please mention
+name of the friend. They must be amongst your class fellows.)
+
+A3. No I did not.
+
+Q4. Did you need to ask questions to any of your instructors? If so, how many questions did
+you ask (or how many help sessions did you require)?
+
+A4. No I did not.
+
+Q5. Rate (subjectively) the difficulty of each question from your own perspective, and
+whether you feel confident that you can solve a similar but different problem requiring
+some of the same techniques in the future now that you’ve completed this one.
+
+A5. The QAP wasn't as difficult as I expected, just alot more work. I would probably be able to complete it as long as I was able to look at outside sources for help.
