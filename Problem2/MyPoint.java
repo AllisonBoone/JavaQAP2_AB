@@ -1,4 +1,6 @@
-package Problem1;
+package Problem2;
+
+//DUPLICATE FILE FROM PROBLEM1!
 
 //Creating the MyPoint class.
 public class MyPoint {
@@ -22,7 +24,7 @@ public class MyPoint {
     }
 
     //Creating the y getter function.
-     public int getY(){
+    public int getY(){
         return  y;
     }
 
